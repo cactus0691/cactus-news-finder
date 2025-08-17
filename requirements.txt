@@ -1,1 +1,6 @@
-
+flask==3.0.3
+feedparser==6.0.11
+transformers==4.42.4
+torch
+requests==2.32.3
+gunicorn==22.0.0
