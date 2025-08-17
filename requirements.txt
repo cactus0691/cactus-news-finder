@@ -1,6 +1,5 @@
-flask==3.0.3
+python-telegram-bot==20.7
+transformers==4.36.2
+torch==2.2.0
 feedparser==6.0.11
-transformers==4.42.4
-torch
 requests==2.32.3
-gunicorn==22.0.0
